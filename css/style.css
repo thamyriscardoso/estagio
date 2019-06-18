@@ -1,33 +1,19 @@
 #nav{
 	background-color: brown;
+	overflow: hidden;
 }
 #btn-entrar{
 	width: 100px; 
 	height: 50px;
 	background-color: brown;
+	text-align: center
 }
 #btn-cadastro{
 	width: 100px; 
 	height: 50px;
 	background-color: brown;
+	text-align: center
 }
-
-.fa-1x {
-	font-size: 1.5rem;
+.container{
+	margin-top: 50px;
 }
-.navbar-toggler.toggler-example {
-	cursor: pointer;
-}
-.dark-blue-text {
-	color: #0A38F5;
-}
-.dark-pink-text {
-	color: #AC003A;
-}
-.dark-amber-text {
-	color: #ff6f00;
-}
-.dark-teal-text {
-	color: #004d40;
-}
-
